@@ -2,3 +2,4 @@ this is for test how to use GitHub and git
 我 希望被邀请 进入 FinnHZ 管理的 GitHubtest远程库 // Finn-Work
 conflict for GitHub 1st try
 help from outside team // Finn-He
+测试Visual studio code是否可以和并用 -- 该文字由visual studio code直接编辑GitHubtest主支上文件。
